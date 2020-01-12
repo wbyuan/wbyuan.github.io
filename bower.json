@@ -1,0 +1,23 @@
+{
+  "name": "wbyuan.github.io",
+  "homepage": "https://github.com/wbyuan/wbyuan.github.io",
+  "authors": [
+    "wbyuan <wbyuan1989@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "bootstrap": "^4.4.1"
+  }
+}
